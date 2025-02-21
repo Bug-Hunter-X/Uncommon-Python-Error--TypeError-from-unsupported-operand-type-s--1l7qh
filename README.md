@@ -1,0 +1,1 @@
+This repository contains example code demonstrating an uncommon error in Python: a TypeError resulting from using unsupported operand types in a division operation.  A common error (ZeroDivisionError) is also included for comparison.  The solution focuses on robust error handling.
